@@ -1,2 +1,2 @@
 # Extension-Toolkit-Pro
-A lightweight Chrome extension that contains multiple multipurpose features that enhances user browsing experiences.
+A lightweight perfectly ready chrome web extension that provides completely free temporary email address for any kind of OTP verification.
