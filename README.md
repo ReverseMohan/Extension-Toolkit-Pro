@@ -5,4 +5,4 @@ A lightweight perfectly ready chrome web extension that provides completely free
 <img src="Screenshot.png" alt="screenshot">
 
 ## Key Features
-*Item 1 Direct setup
+* Item 1 Direct setup
