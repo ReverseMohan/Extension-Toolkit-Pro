@@ -5,4 +5,15 @@ A lightweight perfectly ready chrome web extension that provides completely free
 <img src="Screenshot.png" alt="screenshot">
 
 ## Key Features
-* Item 1 Direct setup
+* Direct setup - easy to setup ( one time installation )
+* Instant Email generation - Just click on generate email & your temporary email is ready.
+* Auto refresh - Automatically refreshes inbox messages.
+* One Tap copy - Click to copy your address to the clipboard instantly.
+* Clean UI: Modern, responsive & professional design that works on your desktop perfectly.
+
+## How to setup?
+1. Clone this repository.
+   <pre> git clone https://github.com/your-username/temp-mail.git </pre>
+
+##Note: 
+This tool is intended for privacy and testing purposes. Please do not use it for illegal activities.
