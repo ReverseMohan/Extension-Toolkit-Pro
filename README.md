@@ -3,10 +3,7 @@ A lightweight perfectly ready chrome web extension that provides completely free
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo](./demo.mp4)
 
 ## Screenshot:
 <img src="Screenshot.png" alt="screenshot">
