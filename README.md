@@ -12,8 +12,14 @@ A lightweight perfectly ready chrome web extension that provides completely free
 * Clean UI: Modern, responsive & professional design that works on your desktop perfectly.
 
 ## How to setup?
-1. Clone this repository.
+1. Download or Clone this repository.
    <pre> git clone https://github.com/your-username/temp-mail.git </pre>
+2. Open in Browser:
+   Click on extension.
+   Click on Manage extension.
+   In Top-Left click on **Load unpacked**.
+3. Navigate to the folder:
+   select the **Extension Toolkit Pro** folder. Now your extension is ready to use.
 
-##Note: 
+## Note: 
 This tool is intended for privacy and testing purposes. Please do not use it for illegal activities.
