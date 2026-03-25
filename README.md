@@ -4,10 +4,7 @@ A lightweight perfectly ready chrome web extension that provides completely free
 ## Demo Video
 
 [Watch the Demo](https://youtu.be/7kIcJiBjVLA?si=yvQpz-NtAqkgFr8K)
-[![Demo](Screenshot.png)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-## Screenshot:
-<img src="Screenshot.png" alt="screenshot">
+[![Demo](Screenshot.png)](https://youtu.be/7kIcJiBjVLA?si=9vbvr3JnNg4PCgFD)
 
 ## Key Features
 * Direct setup - easy to setup ( one time installation )
