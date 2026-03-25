@@ -3,7 +3,7 @@ A lightweight perfectly ready chrome web extension that provides completely free
 
 ## Demo Video
 
-[Watch the Demo](./demo.mp4)
+[Watch the Demo](https://youtu.be/7kIcJiBjVLA?si=yvQpz-NtAqkgFr8K)
 
 ## Screenshot:
 <img src="Screenshot.png" alt="screenshot">
