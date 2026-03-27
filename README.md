@@ -15,7 +15,7 @@ A lightweight perfectly ready chrome web extension that provides completely free
 
 ## How to setup?
 1. Download the release or Clone this repository.
-   <pre> git clone https://github.com/your-username/temp-mail.git </pre>
+   <pre> git clone https://github.com/ReverseMohan/Extension-Toolkit-Pro.git </pre>
 2. Open in Browser:
    Click on extension.
    Click on Manage extension.
